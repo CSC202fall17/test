@@ -1,3 +1,4 @@
+"""Comment at 6:54"""
 class Node:
    def __init__(self, content=None, left=None, right=None):
       self.content = content
